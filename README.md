@@ -13,6 +13,7 @@ This magazine aims to provide interesting insights and facts for fans, analysts 
 Using Power BI, I delved into the last 3 years' data to uncover key insights requested for both primary and secondary analysis.
 
 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗟𝗶𝗻𝗸 - https://acesse.dev/qoEs0
+
 𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗟𝗶𝗻𝗸 - 
 
 # Team Analysis
